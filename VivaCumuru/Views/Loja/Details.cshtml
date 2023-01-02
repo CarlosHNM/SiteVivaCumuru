@@ -1,0 +1,43 @@
+﻿@model Loja
+<div class="container">
+    <div class="row">
+        <div class="card">
+            <div class="text-center">
+                <img src="@Model.ImagemUrl" class="img-fluid" asp-append-version="true" alt="loja">
+            </div>
+            <div class="card-block">
+                <h2 class="card-title text-center">@Model.Nome</h2>
+                <p class="card-text"><h5>@Model.Descricao</h5></p>
+                <p class="card-text"><h5>@Model.Instagran</h5></p>
+                <p class="card-text"><h5>Telefone: @Model.Telefone</h5></p>
+                <p class="card-text"><h5>@Model.Endereco</h5></p>
+                <p class="card-text"><h5>@Model.Email</h5></p>
+                <p class="card-text"><h5>Horario de funcionamento: @Model.Funcionamento</h5></p>
+                @*<p class="card-text"><h5>@Model.UrlLocalizador</h5></p>*@
+            </div>
+            <div class="fixed-action-btn align-self-end">
+                <a class="btn-floating btn-large waves-effect waves-light amber darken-4 pulse"
+                   href="@Model.Instagran">
+                    <img src="~/images/iconmonstr-instagram-15-240.png" style="width: 35px; padding: 10px 2px;">
+                </a>
+
+                <a class="btn-floating btn-large waves-effect waves-light amber darken-4 pulse"
+                   href="https://api.whatsapp.com/send?phone=+55+@Model.Telefone+&text=Olá,%20estou%20me%20contatando%20através%20do%20VIVA%20CUMURU.%20Gostaria%20de%20fazer%20a%20seguinte%20consulta:" target="_blank">
+                    <img src="~/images/iconmonstr-whatsapp-5-240.png" style="width: 35px; padding: 10px 2px;">
+
+                    <a class="btn-floating btn-large waves-effect waves-light amber darken-4 pulse"
+                       href="@Model.UrlLocalizador">
+                        <img src="~/images/iconmonstr-map-9-240.png" style="width: 35px; padding: 10px 2px;">
+                    </a>
+
+            </div>
+            <div>
+                <p class="btn btn-group align-content-lg-end">
+                    <a asp-controller="Home" asp-action="Index"
+                       class="btn btn-outline-info">Retornar ao início</a>
+                </p>
+            </div>
+
+        </div>
+    </div>
+</div>

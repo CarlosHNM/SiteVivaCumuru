@@ -1,0 +1,58 @@
+﻿@model ReflectionIT.Mvc.Paging.PagingList<VivaCumuru.Models.Loja>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h3>Lojas</h3>
+
+<form method="get" class="form-inline">
+
+    <input name="filter" class="form-control" placeholder="filtro"
+           value="@Model.RouteValue["Filter"]" />
+
+    <button type="submit" class="btn btn-info"> Procurar</button>
+</form>
+
+Total de Lojas : @Model.TotalRecordCount
+@*<div>
+    <vc:pager paging-list="@Model"></vc:pager>
+</div>*@
+<div class="row">
+    <div class="col-md-12">
+        <a asp-action="Create">Criar Loja</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-10">
+        <table class="table ">
+                <tr>
+                    
+                    <th scope="col">Nome</th>
+                    <th scope="col">Subcategoria</th>
+                    <th scope="col">Ação</th>
+                    
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nome)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.SubCategoria.SubCategoriaNome)
+                        </td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.LojaId">Edita</a> |
+                            <a asp-action="Details" asp-route-id="@item.LojaId">Detalhes</a> |
+                            <a asp-action="Delete" asp-route-id="@item.LojaId">Deleta</a>
+                        </td>
+                    </tr>
+                }
+            </thead>
+        </table>
+    </div>
+</div>
+
+<div class="justify-content-end">
+    <vc:pager paging-list="@Model"></vc:pager>
+</div>

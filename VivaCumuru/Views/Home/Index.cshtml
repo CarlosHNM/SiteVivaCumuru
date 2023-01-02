@@ -1,0 +1,46 @@
+﻿
+
+<div class="p-3 mb-2 text-dark" style="background:#EF8B1E;">
+<div class="text-center text-black">
+    <h1 class="display-4">Viva Cumuru</h1>
+</div>
+</div>
+<h2 class="font-weight-bold text-center">Bem vindo ao seu Guia de Cumuruxatiba!!</h2>
+
+<partial name="_Carousel" />
+
+@model IEnumerable<VivaCumuru.Models.Categoria>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center">Categorias</h1>
+
+
+
+<table class="table ">
+    <thead>
+        <tr style="background:#EF8B1E;">
+            <th>
+                @Html.DisplayNameFor(model => model.CategoriaNome)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr >
+                    <td >
+                    @Html.DisplayFor(modelItem => item.CategoriaNome)
+                    </td>
+                    <td>
+                    <a asp-action="Index" asp-controller="SubCategoria" asp-route-id="@item.CategoriaId">Visualizar</a>
+
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>
+

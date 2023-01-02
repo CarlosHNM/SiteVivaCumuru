@@ -1,0 +1,28 @@
+﻿@model VivaCumuru.Models.SubCategoria
+
+@{
+    ViewData["Title"] = "Create";
+}
+<h3>Criar SubCategoria</h3>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="SubCategoriaNome" class="control-label"></label>
+                <input asp-for="SubCategoriaNome" class="form-control" />
+                <span asp-validation-for="SubCategoriaNome" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="CategoriaId" class="control-label"></label>
+                <select asp-for="CategoriaId" class="form-control" asp-items="ViewBag.CategoriaId"></select>
+            </div>
+            <hr />
+            <div class="form-group">
+                <input type="submit" value="Criar SubCategoria" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-outline-info">Retornar</a>
+            </div>
+        </form>
+    </div>
+</div>

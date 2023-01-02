@@ -1,0 +1,29 @@
+﻿<header>
+    <nav class="navbar navbar-expand-lg navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
+        <div class="container">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                <img src="~/images/viva.png" />
+                Viva Cumuru
+            </a>
+             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar"
+                aria-controls="collapsibleNavbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+            <div class="navbar-collapse collapse" id="collapsibleNavbar" style="font-size: medium; font-weight: bold">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a class="nav-link text-light" asp-area="" asp-controller="Contato" asp-action="Index">Contato</a></li>
+                    <li><a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li>
+                        @await Html.PartialAsync("_LoginPartial")
+                    </li>
+                    <li>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <a class="nav-link text-light" asp-area="Admin" asp-controller="Admin" asp-action="Index">Admin</a>
+                        }
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>

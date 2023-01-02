@@ -1,0 +1,42 @@
+﻿@model IEnumerable<VivaCumuru.Models.TelefoneUteis>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Agenda Telefones Úteis</h1>
+
+<p>
+    <a asp-action="Create">Criar Novo Telefone</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TelNome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TelNum)
+            </th>
+        </tr>
+        <tr>
+        </tr>
+    </thead>
+    <thead>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TelNome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TelNum)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.TelId">Edita</a> |
+                    <a asp-action="Delete" asp-route-id="@item.TelId">Deleta</a>
+                </td>
+            </tr>
+        }
+    </thead>
+    </table>

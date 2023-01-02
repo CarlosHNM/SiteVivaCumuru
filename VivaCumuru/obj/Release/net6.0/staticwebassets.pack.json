@@ -1,0 +1,805 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\VivaCumuru.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VivaCumuru.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Cumuru1.jpg",
+      "PackagePath": "staticwebassets\\images\\Cumuru1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Envelope-icon24.png",
+      "PackagePath": "staticwebassets\\images\\Envelope-icon24.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Home-iconred.png",
+      "PackagePath": "staticwebassets\\images\\Home-iconred.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Imagem3.jpg",
+      "PackagePath": "staticwebassets\\images\\Imagem3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\AREIA PRETA.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\AREIA PRETA.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\alinhamentoenergetico.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\alinhamentoenergetico.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\areiapreta.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\areiapreta.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\artesobrearte.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\artesobrearte.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\atelierelianabergara.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\atelierelianabergara.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\atelierrenatahomem.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\atelierrenatahomem.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\avozdocorpoavozdaalmaummergulhonoautoconhecimentoatravesdavozfaladaecantada.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\avozdocorpoavozdaalmaummergulhonoautoconhecimentoatravesdavozfaladaecantada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\barradocahy.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\barradocahy.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\baticumuru.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\baticumuru.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\bebidaselanchesaeradogelo.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\bebidaselanchesaeradogelo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\binottosgourmet.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\binottosgourmet.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\brasilgas.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\brasilgas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\brisapizzaria.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\brisapizzaria.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\cabanabrisamar.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\cabanabrisamar.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\calambriao.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\calambriao.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\caramuru.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\caramuru.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\casaamigos.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\casaamigos.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\casadaju.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\casadaju.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\casadajucondominionovoparaiso.jpeg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\casadajucondominionovoparaiso.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\casadapaolla.jpeg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\casadapaolla.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\casademinas.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\casademinas.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\casaraodasarteshospedaria.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\casaraodasarteshospedaria.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\catamara (2).PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\catamara (2).PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\centraldascarnes.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\centraldascarnes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\chaledajulogo.jpeg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\chaledajulogo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\cocadadalucinha.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\cocadadalucinha.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\coisafinatapiocaraia.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\coisafinatapiocaraia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\coisasdaroça.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\coisasdaroça.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\condominionovoparaiso.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\condominionovoparaiso.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\coresesabores.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\coresesabores.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\cumurubier.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\cumurubier.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\cumurupescados.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\cumurupescados.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\cumuruxatiba.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\cumuruxatiba.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\depilcllinesteticaavançada.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\depilcllinesteticaavançada.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\depositodebebidascenterbeer.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\depositodebebidascenterbeer.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\depositodebebidasschneider.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\depositodebebidasschneider.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\devalcitaxietraslado.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\devalcitaxietraslado.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\doisirmaos.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\doisirmaos.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\eletrolarcumuru.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\eletrolarcumuru.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\ema.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\ema.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\embarcamagno.jpeg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\embarcamagno.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\emporiocumuru.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\emporiocumuru.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\esmeraldagama.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\esmeraldagama.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\festadeiemanja.JPG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\festadeiemanja.JPG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\festadesantoantonio.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\festadesantoantonio.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\festadesaosebastiao.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\festadesaosebastiao.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\file.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\file.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\fisiocumuru.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\fisiocumuru.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\fortteengenharia.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\fortteengenharia.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\gelatocafe.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\gelatocafe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\gloria.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\gloria.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\gotipizzaria.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\gotipizzaria.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\gurita.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\gurita.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\hamburgueriacoisaboa.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\hamburgueriacoisaboa.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\iagomotos.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\iagomotos.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\igrejacatolica.JPG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\igrejacatolica.JPG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\imbassuaba.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\imbassuaba.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\japaramirim.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\japaramirim.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\kai.jpeg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\kai.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\lanchesdo14.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\lanchesdo14.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\lavanderiacantinhodaisabel.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\lavanderiacantinhodaisabel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\madecon.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\madecon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\malricioimpressoes.jpeg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\malricioimpressoes.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\mamaafrica.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\mamaafrica.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\manukobeachclub.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\manukobeachclub.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\maracatuoficinagratuita.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\maracatuoficinagratuita.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\mareterra.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\mareterra.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\marinho.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\marinho.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\masculinobinho.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\masculinobinho.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\megatech.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\megatech.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\ocaramuruhostel.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\ocaramuruhostel.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\operadoraaquamar.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\operadoraaquamar.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\operadoracumurumagicaltour.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\operadoracumurumagicaltour.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\operadoralibra.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\operadoralibra.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\operadorasaveirolorde.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\operadorasaveirolorde.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pedradopolvo.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pedradopolvo.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\peixin.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\peixin.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\piercentro.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\piercentro.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\portobelo.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\portobelo.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadaaquarela.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadaaquarela.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadaareiapreta.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadaareiapreta.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadaaxe.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadaaxe.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadabellacumuru.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadabellacumuru.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadaboasorte.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadaboasorte.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadaclara.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadaclara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadacumurumare.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadacumurumare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadae.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadae.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadainga.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadainga.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadaluana.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadaluana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadamandala.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadamandala.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadamare.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadamare.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadariodopeixe.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadariodopeixe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadasaofrancisco.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadasaofrancisco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadasoldeverao.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadasoldeverao.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\pousadauaibrasil.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\pousadauaibrasil.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\praiadomoreira.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\praiadomoreira.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\praiajaparagrande.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\praiajaparagrande.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\professorrobinho.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\professorrobinho.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\projamille.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\projamille.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\projetoalfabetizaçaoeletramento.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\projetoalfabetizaçaoeletramento.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\psicologaananegrello.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\psicologaananegrello.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\quintaldecumuru.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\quintaldecumuru.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\restaurantedajoselfservice.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\restaurantedajoselfservice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\restaurantedohermes.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\restaurantedohermes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\riodopeixe.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\riodopeixe.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\samburaduze1.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\samburaduze1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\souza.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\souza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\suiço.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\suiço.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\tiba.PNG",
+      "PackagePath": "staticwebassets\\images\\Lojas\\tiba.PNG"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\ucantodacigana.png",
+      "PackagePath": "staticwebassets\\images\\Lojas\\ucantodacigana.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\vilaguaiamum.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\vilaguaiamum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\Lojas\\vilaricaimobiliaria.jpg",
+      "PackagePath": "staticwebassets\\images\\Lojas\\vilaricaimobiliaria.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\adminarea.jpg",
+      "PackagePath": "staticwebassets\\images\\adminarea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\delete.png",
+      "PackagePath": "staticwebassets\\images\\delete.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\erro1.png",
+      "PackagePath": "staticwebassets\\images\\erro1.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\faleconosco1.jpg",
+      "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\iconmonstr-instagram-15-240.png",
+      "PackagePath": "staticwebassets\\images\\iconmonstr-instagram-15-240.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\iconmonstr-map-9-240.png",
+      "PackagePath": "staticwebassets\\images\\iconmonstr-map-9-240.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\iconmonstr-whatsapp-5-240.png",
+      "PackagePath": "staticwebassets\\images\\iconmonstr-whatsapp-5-240.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\images.jpeg",
+      "PackagePath": "staticwebassets\\images\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\images2.jpeg",
+      "PackagePath": "staticwebassets\\images\\images2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\instagram.svg",
+      "PackagePath": "staticwebassets\\images\\instagram.svg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\login1.jpg",
+      "PackagePath": "staticwebassets\\images\\login1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\login_48.png",
+      "PackagePath": "staticwebassets\\images\\login_48.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\negado1.jpg",
+      "PackagePath": "staticwebassets\\images\\negado1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\phone-app-icon.png",
+      "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\registro1.jpg",
+      "PackagePath": "staticwebassets\\images\\registro1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\upload2.png",
+      "PackagePath": "staticwebassets\\images\\upload2.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\visualizar1.jpg",
+      "PackagePath": "staticwebassets\\images\\visualizar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\viva.png",
+      "PackagePath": "staticwebassets\\images\\viva.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\images\\wpp.png",
+      "PackagePath": "staticwebassets\\images\\wpp.png"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gob040\\Desktop\\VivaCumuru\\VivaCumuru\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.VivaCumuru.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.VivaCumuru.props",
+      "PackagePath": "build\\VivaCumuru.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.VivaCumuru.props",
+      "PackagePath": "buildMultiTargeting\\VivaCumuru.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.VivaCumuru.props",
+      "PackagePath": "buildTransitive\\VivaCumuru.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

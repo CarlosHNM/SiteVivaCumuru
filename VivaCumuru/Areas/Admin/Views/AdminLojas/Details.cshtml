@@ -1,0 +1,61 @@
+﻿@model VivaCumuru.Models.Loja
+
+@{
+    ViewData["Title"] = "Details";
+}
+<h3>Detalhes</h3>
+<div>
+    <hr />
+    <dl class="row align-content-center">
+        <div class="form-group col-md-6">
+            <img src="@Model.ImagemUrl" />
+        </div>
+    </dl>
+    <dl class="row">
+        
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Telefone)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Telefone)
+        </dd>
+         
+         <dt class="col-sm-3">
+        @Html.DisplayNameFor(model => model.UrlLocalizador)
+        </dt>
+        <dd class="col-sm-9">
+        @Html.DisplayFor(model => model.UrlLocalizador)
+        </dd>
+        <dt class="col-sm-3">
+        @Html.DisplayNameFor(model => model.Funcionamento)
+        </dt>
+        <dd class="col-sm-9">
+        @Html.DisplayFor(model => model.Funcionamento)
+        </dd>
+        <dt class="col-md-3">
+            @Html.DisplayNameFor(model => model.SubCategoria)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.SubCategoria.SubCategoriaNome)
+        </dd>
+    </dl>
+</div>
+<hr />
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.LojaId">Editar</a> |
+    <a asp-action="Index" class="btn btn-outline-info">Retornar</a>
+</div>
+

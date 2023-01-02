@@ -1,0 +1,33 @@
+﻿@model VivaCumuru.Models.SubCategoria
+@{
+    ViewData["Title"] = "Edit";
+}
+<h3>Editar Categoria</h3>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="SubCategoriaNome" class="control-label"></label>
+                <input asp-for="SubCategoriaNome" class="form-control" />
+                <span asp-validation-for="SubCategoriaNome" class="text-danger"></span>
+            </div>
+            <div class="form-group col-sm-4">
+                <label asp-for="CategoriaId" class="control-label"></label>
+                <select asp-for="CategoriaId" class="form-control" asp-items="ViewBag.CategoriaId"></select>
+                <span asp-validation-for="CategoriaId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Retornar</a>
+</div>
+
+

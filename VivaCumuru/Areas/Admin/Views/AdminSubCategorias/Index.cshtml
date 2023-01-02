@@ -1,0 +1,36 @@
+﻿@model IEnumerable<VivaCumuru.Models.SubCategoria>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>SubCategorias</h1>
+
+<p>
+    <a asp-action="Create">Criar Nova SubCategoria</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SubCategoriaNome)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SubCategoriaNome)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edita</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Deleta</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

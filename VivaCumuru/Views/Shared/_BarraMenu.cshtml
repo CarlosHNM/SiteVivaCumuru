@@ -1,0 +1,29 @@
+﻿<nav class="navbar navbar-expand-lg navbar-dark bg-dark border-bottom box-shadow mb-3">
+    <div class="container">
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+            <img src="~/images/viva.png" asp-append-version="true" style="width: 65px; padding: 10px 2px;" />
+        </a>
+        <!-- Toggler/collapsibe Button -->
+       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="true" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+        <!-- Collapsible content -->
+        <div class="navbar-collapse collapse" id="collapsibleNavbar" style="font-size: medium; font-weight: bold">
+            <ul class="navbar-nav mr-auto">
+                
+                <li class="nav-item"><a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a></li>
+                <li class="nav-item"><a class="nav-link text-light" asp-area="" asp-controller="Contato" asp-action="Index">Contato</a></li>
+                <li class="nav-item"><a class="nav-link text-light" asp-area="" asp-controller="TelUtil" asp-action="Index">Telefones Úteis</a></li>
+                <a class="nav-link text-light" href="https://tabuademares.com/br/bahia/cumuruxatiba">Tábua das mares</a>
+                <li class="nav-item align-self-sm-end">
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a class="nav-link text-light" asp-area="Admin" asp-controller="Admin" asp-action="Index">Admin</a>
+                    }
+                </li>
+                <li class="nav-item">@await Html.PartialAsync("_LoginPartial")</li>
+            </ul>
+        </div>
+    </div>
+</nav>

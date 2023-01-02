@@ -1,0 +1,49 @@
+/* _content/VivaCumuru/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-fqp1dttsot] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-fqp1dttsot] {
+  color: #0077cc;
+}
+
+.btn-primary[b-fqp1dttsot] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-fqp1dttsot], .nav-pills .show > .nav-link[b-fqp1dttsot] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-fqp1dttsot] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-fqp1dttsot] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-fqp1dttsot] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-fqp1dttsot] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-fqp1dttsot] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

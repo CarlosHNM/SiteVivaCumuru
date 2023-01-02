@@ -1,0 +1,14 @@
+﻿@model LojaListViewModel
+
+<div>
+    <h2>@Model.SubCategoriaAtual</h2>
+</div>
+
+<div class="container">
+    <div class="row">
+        @foreach (var loja in Model.Lojas)
+        {
+              <partial name="_LojasResumo" for="@loja"/>
+        }
+    </div>
+</div>

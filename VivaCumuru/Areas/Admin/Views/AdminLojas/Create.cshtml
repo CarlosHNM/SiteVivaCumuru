@@ -1,0 +1,74 @@
+﻿@model VivaCumuru.Models.Loja
+
+@{
+    ViewData["Title"] = "Create";
+}
+<h3>Criar Loja</h3>
+<hr />
+<div class="row">
+    <div class="col-md-10">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label"></label>
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Descricao" class="control-label"></label>
+                <textarea asp-for="Descricao" class="form-control"></textarea>
+                <span asp-validation-for="Descricao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Endereco" class="control-label"></label>
+                <textarea asp-for="Endereco" class="form-control"></textarea>
+                <span asp-validation-for="Endereco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefone" class="control-label"></label>
+                <input asp-for="Telefone" class="form-control" />
+                <span asp-validation-for="Telefone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImagemUrl" class="control-label"></label>
+                <input asp-for="ImagemUrl" class="form-control" />
+                <span asp-validation-for="ImagemUrl" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+            <label asp-for="Instagran" class="control-label"></label>
+            <input asp-for="Instagran" class="form-control" />
+            <span asp-validation-for="Instagran" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UrlLocalizador" class="control-label"></label>
+                <input asp-for="UrlLocalizador" class="form-control" />
+                <span asp-validation-for="UrlLocalizador" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Funcionamento" class="control-label"></label>
+                <input asp-for="Funcionamento" class="form-control" />
+                <span asp-validation-for="Funcionamento" class="text-danger"></span>
+            </div>
+            <div class="row">
+                <div class="form-group col-md-4">
+                    <label asp-for="SubCategoriaId" class="control-label"></label>
+                    <select asp-for="SubCategoriaId" class="form-control" asp-items="ViewBag.SubCategoriaId"></select>
+                </div>
+                
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Criar Loja" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-outline-info">Retornar</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

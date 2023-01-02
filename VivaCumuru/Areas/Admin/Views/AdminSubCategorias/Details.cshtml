@@ -1,0 +1,30 @@
+﻿@model VivaCumuru.Models.SubCategoria
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h3>Detalhe da SubCategoria</h3>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-4">
+            @Html.DisplayNameFor(model => model.SubCategoriaNome)
+        </dt>
+        <dd class="col-sm-8">
+            @Html.DisplayFor(model => model.SubCategoriaNome)
+        </dd>
+        <dt class = "col-sm-3">
+            @Html.DisplayNameFor(model => model.Categoria)
+        </dt>
+        <dd class = "col-sm-9">
+            @Html.DisplayFor(model => model.Categoria.CategoriaNome)
+        </dd>
+    </dl>
+</div>
+<hr />
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Editar</a> |
+    <a asp-action="Index" class="btn btn-outline-info">Retornar</a>
+</div>

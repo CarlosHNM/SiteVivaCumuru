@@ -1,0 +1,33 @@
+﻿@model VivaCumuru.Models.TelefoneUteis
+@{
+    ViewData["Title"] = "Edit";
+}
+<h3>Editar Categoria</h3>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="TelId" />
+            <div class="form-group">
+                <label asp-for="TelNome" class="control-label"></label>
+                <input asp-for="TelNome" class="form-control" />
+                <span asp-validation-for="TelNome" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="TelNum" class="control-label"></label>
+                <input asp-for="TelNum" class="form-control" />
+                <span asp-validation-for="TelNum" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Retornar</a>
+</div>
+
+
